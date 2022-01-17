@@ -17,6 +17,8 @@
 
 This document will explain the fundamentals of how the Snake game works. 
 
+- ([Youtube Demo](https://youtu.be/EI8MILz4auI))
+
 <img src="./images/Picture1.jpg">
 
 # 1.3 The Rules of Snake
